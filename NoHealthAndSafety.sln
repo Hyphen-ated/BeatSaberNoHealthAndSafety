@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatSaberNoHealthAndSafety", "BeatSaberNoHealthAndSafety\BeatSaberNoHealthAndSafety.csproj", "{7BC4A8D2-92ED-4017-93F6-014F1747AEA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoHealthAndSafety", "NoHealthAndSafety\NoHealthAndSafety.csproj", "{866134A1-8162-471F-9D42-9063732B7515}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7BC4A8D2-92ED-4017-93F6-014F1747AEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BC4A8D2-92ED-4017-93F6-014F1747AEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BC4A8D2-92ED-4017-93F6-014F1747AEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BC4A8D2-92ED-4017-93F6-014F1747AEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866134A1-8162-471F-9D42-9063732B7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866134A1-8162-471F-9D42-9063732B7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866134A1-8162-471F-9D42-9063732B7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866134A1-8162-471F-9D42-9063732B7515}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {76A776E7-432E-410D-BA0F-21A3EC7CB6B8}
+		SolutionGuid = {C7EC7C65-EBBC-4FBB-891C-71158258A71B}
 	EndGlobalSection
 EndGlobal

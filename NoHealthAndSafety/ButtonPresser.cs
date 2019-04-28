@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace BeatSaberNoHealthAndSafety
+namespace NoHealthAndSafety
 {
     class ButtonPresser : MonoBehaviour
     {
@@ -18,7 +13,6 @@ namespace BeatSaberNoHealthAndSafety
             {
                 if (button.name == "Continue")
                 {
-                    Console.WriteLine("[NoHealthAndSafety]: Clicking 'continue' through the safety warning");
                     button.onClick.Invoke();
                 }
             }
