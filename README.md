@@ -5,7 +5,7 @@ It works by automatically pressing the "Continue" button after a short delay. It
 
 Do not use this mod if you need the warning in order to stay healthy and safe.
 
-Works on beat saber v0.13.2 (the current latest version) as well as v0.12.2 and v0.13.0
+Works on beat saber v1.1.0 (the current latest version) as well as v0.13.2, v0.12.2, and v0.13.0
 
 Does not work on v0.13.1
 
