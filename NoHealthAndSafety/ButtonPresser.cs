@@ -8,7 +8,6 @@ namespace NoHealthAndSafety
     {
         private IEnumerator clickIt()
         {
-            yield return new WaitForSeconds(.3f);
             foreach (Button button in Resources.FindObjectsOfTypeAll<Button>())
             {
                 if (button.name == "Continue")
